@@ -55,14 +55,11 @@ This recreates the database from the backup file.
 
 ### Original Data (Before Backup)
 
-<!-- Drag & drop screenshot here -->
-
-![Original Data](image1.png)
-
+<img width="1061" height="607" alt="Image" src="https://github.com/user-attachments/assets/a53f31c0-cbdb-4eb1-8ccf-e804f11a357b" />
 
 ### Restored Data (After Recovery)
 
-![Restored Data](image3.png)
+<img width="1061" height="607" alt="Image" src="https://github.com/user-attachments/assets/a53f31c0-cbdb-4eb1-8ccf-e804f11a357b" />
 
 ---
 
