@@ -59,9 +59,6 @@ This recreates the database from the backup file.
 
 ![Original Data](image1.png)
 
-### Backup Command Execution
-
-![Backup Command](image2.png)
 
 ### Restored Data (After Recovery)
 
